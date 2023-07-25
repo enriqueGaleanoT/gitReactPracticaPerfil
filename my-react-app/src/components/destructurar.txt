@@ -1,0 +1,13 @@
+personas = {
+    nombre
+    edad
+    ciudad
+}
+personas.nombre
+personas.ciudad
+
+tiene que estar en el mismo nombre como esta en personas
+const {nombre, edad, ciudad} = personas
+console.log(ciudad)
+
+explicacion a que se refiere la palabra
